@@ -1,0 +1,7 @@
+A b str ac t £ºA n ew v ide o ¡ªau gm e n tation ap p ro ac h b ase d o n p ersp ec tiv e sp ace is desc r i b ed w h ic h m ak e s u se
+o f ep ip olar co n st r ain ts an d fu n dam en ta l m a trix to re alize su p e rim p o su re of 3 D im ag e an d v ideo £® It u se s p in -
+hole cam era m odeland perspective geom etry constraints to conveniently im plem entthe repr~ ection ofvir u¡ª
+al objects£® The approach does not use the calibration param eters of th e cam era and th e 3 D location s of the
+envirom ent¡¯S object£¬ and overcom es the vision errors and lim itation ofim plem entation because ofthe aff i ne
+a p p rox im a tion to p er s p e ctive £®
+K ey w o r ds £ºvirtu al rea l ity £»v i deo au gm en tat i on £»v ide o su p erim po sure £»ep ip o lar lin e c on strain ts£»pe rsp e ct i v e sp ac e
